@@ -3,6 +3,7 @@ As part of my journey towards Data Engineering and Analytics Engineering, I read
 
 # Important information and disclaimer
 - Sometimes I'm reading books in my mother tongue German, but keep the notes in English for international understandability. In the process of translating, some terms and concepts might not be 100% equal to what the (mostly English-writing) authors used.
+- My notes contain information that I found useful and that I wanted to memorise and contextualise. By no means are my notes an exhausting summary of the chapter; I might leave away some information I skipped, knew already, or found confusing.
 - The border between the thoughts in the texts and my own thoughts sometimes blur and not all the information in my notes are purely from the text. I do this on purpose to contextualise my knowledge but I do not always indicate that in the notes, so take some passages with a grain of salt.
 - I write my notes in [Obsidian](https://obsidian.md) and as such they are in **Markdown** file format (*.md). These files do contain some Obsidian-specific syntax like callouts but should still easily be cleanable and adaptable if you want a plain-text version of my notes. I additionally include the Obsidian-renedered text in PDF or HTML format (not 100% sure, yet) for better readability. **If you just want to read my notes, opt for the second file format**.
 
